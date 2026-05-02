@@ -8,8 +8,8 @@ SECRET_KEY = "my_secret_key"
 
 # Dummy user data (for demonstration)
 USER_DATA = {
-    "username": "admin",
-    "password": "1234"
+    "username": "Vishal",
+    "password": "2002"
 }
 
 # Function to generate token
